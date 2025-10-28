@@ -18,6 +18,10 @@ OOP: Button, Display, and operator handling are modularized
 
 10/21/2025
 
+
+![UML diagram](src/calculator/calculator(1).png)
+
+
 ![Screenshot](https://github.com/user-attachments/assets/884ec9b8-22f3-4720-b739-7fa2cb08c1bc)
 
 MAC EXE:
